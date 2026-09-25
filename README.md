@@ -1,2 +1,2 @@
 # controlcircuit-releases
-Installers for ControlCircuit. Source is not public.
+ControlCircuit installers. Download page: arizona.xml-control.com/controlcircuit/. Licensed under the EULA shown during installation.
